@@ -1,0 +1,1 @@
+This is a demo project to practice basic git operations on a vite react project
